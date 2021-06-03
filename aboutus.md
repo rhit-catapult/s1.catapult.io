@@ -21,3 +21,13 @@ watching and playing basketball (Go Nets!) and reading philosophy.
 </p>
 
 ## Student Assistant: Carter Myers
+
+<img style="padding-right:10px" width="214" height="380" align="left" src="{{ site.baseurl }}/assets/img/carter.jpeg"/>
+
+<p style='text-align: justify;'> 
+
+Carter Myers is a Computer Engineering student from Cory, Indiana. This past
+year, Carter worked as a Resident Assistant in Deming Attic. Outside of school,
+he enjoys playing Valorant and Rocket League, and watching various tv shows.
+
+</p>
