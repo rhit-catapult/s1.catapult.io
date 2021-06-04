@@ -222,6 +222,7 @@ exclude:
   - screenshot.png
   - vendor
   - docs/
+  - Makefile
 
 plugins:
   - jekyll-paginate
