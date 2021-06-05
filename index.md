@@ -34,7 +34,7 @@ In this project, we will:
 - Most importantly, HAVE FUN! and build and exciting project. 
 
 You can find a sample of previous projects on this 
-[page]({{ site.base_url }}/pages/00_samples).
+[page]({{ site.baseurl }}/pages/00_samples).
 
 <!--
 If you sign up for the Python programming project, it is okay to delay the
