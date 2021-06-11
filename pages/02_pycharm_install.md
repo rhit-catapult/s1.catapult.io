@@ -3,10 +3,23 @@ layout: page
 title: PyCharm Installation
 ---
 
+# Table of contents
+
+<!-- vim-markdown-toc GFM -->
+
+* [Installing PyCharm: All platforms](#installing-pycharm-all-platforms)
+  * [Download the installer](#download-the-installer)
+  * [Install PyCharm: Windows](#install-pycharm-windows)
+  * [Install PyCharm: MacOS](#install-pycharm-macos)
+  * [Install PyCharm: Linux](#install-pycharm-linux)
+
+<!-- vim-markdown-toc -->
+
+
 # Installing PyCharm: All platforms
 
-If you have not yet install python and git, then please go back to that tutorial
-and make sure that both are installed before you continue with this setup guide. 
+If you have not yet installed python and git, then please go back to that tutorial
+and make sure that both are installed before continuing with this setup guide. 
 
 In this project, we will be using the PyCharm Community edition IDE, which is a
 powerful tool that allows us to write python programs with ease. 
@@ -20,6 +33,7 @@ Windows](https://download.jetbrains.com/python/pycharm-community-2021.1.2.exe?_g
 MacOS](https://download.jetbrains.com/python/pycharm-community-2021.1.2.dmg?_gl=1*ndny6n*_ga*MjM3MTk0MjYuMTYwMDQzOTM4OA..*_ga_V0XZL7QHEB*MTYyMzQyOTg0Ny4zLjEuMTYyMzQyOTg5MS4w)
 - [For
 Linux](https://download.jetbrains.com/python/pycharm-community-2021.1.2.tar.gz?_gl=1*xfm1a*_ga*MjM3MTk0MjYuMTYwMDQzOTM4OA..*_ga_V0XZL7QHEB*MTYyMzQyOTg0Ny4zLjEuMTYyMzQyOTkyNy4w)
+
 
 
 ## Install PyCharm: Windows
@@ -50,3 +64,22 @@ you.
    manually reboot later` and then click on `Finish`
 
    ![PyCharm Install 5]({{ site.baseurl }}/assets/img/PycharmInstallWin/04.png)
+
+5. Let's go ahead and verify our installation, launch PyCharm, accept the
+   license and then you should see a screen that looks like the following
+
+   ![PyCharm Install 6]({{ site.baseurl }}/assets/img/PycharmInstallWin/05.png)
+
+## Install PyCharm: MacOS
+
+On MacOS, the process is much simpler. Double click on the file you downloaded,
+and then simply drag the PyCharm icon into the Applications folder, and you are
+all set. 
+
+## Install PyCharm: Linux
+
+For Linux users, no installation is required. Simply extract the compressed file
+that you downloaded and then open a terminal, navigate to the directory you
+extracted the folder to, and type `./pycharm.sh`. If you need help to navigate
+the terminal, then please reach out to you instructor or teaching assistant.
+
