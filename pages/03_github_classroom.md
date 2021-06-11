@@ -30,22 +30,22 @@ our organization `rhit-CSSE`.
 Next, you will see a screen like the one below. Click on the `Accept this
 assignment` button:
 
-![GithubClassroom 1](/assets/img/GithubClassroom/00.png)
+![GithubClassroom 1]({{ site.baseurl }}/assets/img/GithubClassroom/00.png)
 
 Next, you will see a screen that informs you that Github is configuring your
 repository, as shown below
 
-![GithubClassroom 2](/assets/img/GithubClassroom/01.png)
+![GithubClassroom 2]({{ site.baseurl }}/assets/img/GithubClassroom/01.png)
 
 Wait a few seconds, then hit the refresh button in your browser, you should see
 the following message pop up
 
-![GithubClassroom 3](/assets/img/GithubClassroom/02.png)
+![GithubClassroom 3]({{ site.baseurl }}/assets/img/GithubClassroom/02.png)
 
 Finally, click on the link that is shown in the page above, this will take you
 to your repository where you can see the starter code, as shown below
 
-![GithubClassroom 4](/assets/img/GithubClassroom/03.png)
+![GithubClassroom 4]({{ site.baseurl }}/assets/img/GithubClassroom/03.png)
 
 You are now good to go, we're so close to getting our hands dirty with coding.
 
@@ -57,24 +57,24 @@ the project into PyCharm (I promise, this is the last step).
 1. Launch PyCharm and click on the `Get from VCS` button, a screen should pop up
    like the one below
 
-   ![Setup 1](/assets/img/ProjectSetup/00.png)
+   ![Setup 1]({{ site.baseurl }}/assets/img/ProjectSetup/00.png)
 
 2. Next go back to your favorite browser, and open the tab that has your
    repository on it. Click on the `Code` button, select `HTTPS`, and copy the
    link that shows up then.
 
-   ![Setup 2](/assets/img/ProjectSetup/01.png)
+   ![Setup 2]({{ site.baseurl }}/assets/img/ProjectSetup/01.png)
 
 3. Paste the URL that you copied into the URL field in the PyCharm window. Your
    window should look like the following (your link will be different though)
 
-   ![Setup 3](/assets/img/ProjectSetup/02.png)
+   ![Setup 3]({{ site.baseurl }}/assets/img/ProjectSetup/02.png)
 
 4. Click on the `clone` button. PyCharm might ask you for your GitHub username
    and password, so enter those as well. If everything goes well, you should see
    the project open up in your window looking like the picture below
 
-   ![Setup 4](/assets/img/ProjectSetup/03.png)
+   ![Setup 4]({{ site.baseurl }}/assets/img/ProjectSetup/03.png)
 
 5. Now, let's configure python for our project. First click on the project
    properties (right click + properties on Windows, PyCharm -> preferences on
@@ -82,7 +82,7 @@ the project into PyCharm (I promise, this is the last step).
    Select the `Python Interpreter` item from that drop down list. Your window
    should look as follows:
 
-   ![Setup 5](/assets/img/ProjectSetup/04.png)
+   ![Setup 5]({{ site.baseurl }}/assets/img/ProjectSetup/04.png)
 
 6. In the `Python Interpreter` textbox on the right-hand side, make sure that it
    shows the version of python that you installed. PyCharm should automatically
@@ -93,14 +93,15 @@ the project into PyCharm (I promise, this is the last step).
    Interpreter` textbox, and type `pygame` in the search bar. You should see
    something that looks like this
 
-   ![Setup 6](/assets/img/ProjectSetup/05.png)
+   ![Setup 6]({{ site.baseurl }}/assets/img/ProjectSetup/05.png)
 
 8. Select pygame and click on `Install Package`
 
 9. Close the window, `pygame` should now appear in your installed packages menu
    as follows:
 
-   ![Setup 7](/assets/img/ProjectSetup/06.png)
+   ![Setup 7]({{ site.baseurl }}/assets/img/ProjectSetup/06.png)
 
 10. Congratulations on making it this far. I know it's been tedious, but we are
     now good to go. 
+
