@@ -14,9 +14,9 @@ title: TicTacToe Game
   * [The `Game` class](#the-game-class)
   * [The `ViewController` class](#the-viewcontroller-class)
 * [TODO 1-3: The game loop](#todo-1-3-the-game-loop)
-  * [TODO 1:](#todo-1)
-  * [TODO 2:](#todo-2)
-  * [TODO 3:](#todo-3)
+  * [TODO 1](#todo-1)
+  * [TODO 2](#todo-2)
+  * [TODO 3](#todo-3)
 
 <!-- vim-markdown-toc -->
 
@@ -72,7 +72,7 @@ Let's go ahead and take care of the game loop. We have provided you with the
 initial skeleton for all the classes you need to implement, so we can use them
 now and then complete them as we implement the `TODO`s in the code. 
 
-## TODO 1:
+## TODO 1
 
 In this section, we will first instantiate (i.e., create or give birth to) an
 instance of the `ViewController` class. This is similar to how we built points
@@ -80,18 +80,39 @@ in the `Point class`. Go ahead and try to implement this on your own, then check
 the solution below
 
 <details>
-  <summary> Expand the solution </summary>
-  <p>
 
-  ```python
-      view_controller = ViewController()
-  ```
+```python
+# TODO 1: Create an instance of the ViewController class called view_controller
+view_controller = ViewController(screen)
+```
 
-  </p>
 </details>
 
-## TODO 2:
+## TODO 2
 
-## TODO 3:
+In this section, we need to call the `check_event` method from our created view
+controller, and pass it the current `event` as an argument. Try to implement
+this yourself, then check the solution below.
 
+<details>
 
+```python
+# TODO 2: Pass the event to the view_controller
+view_controller.check_event(event)
+```
+
+</details>
+
+## TODO 3
+
+In this section, we will draw the view controller that we instantiated (created)
+earlier, so let's go ahead and do that, then check the solution below
+
+<details>
+
+```python
+# TODO 3: Draw the view_controller
+view_controller.draw()
+```
+
+</details>

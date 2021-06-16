@@ -23,7 +23,6 @@ navbar-links:
     - Install python and git: "pages/01_windows_install"
     - Install pycharm: "pages/02_pycharm_install"
     - Github classroom: "pages/03_github_classroom"
-  Activities: "activities/zz_index"
 
 
 # --- Logo --- #
@@ -204,6 +203,7 @@ paginate: 5
 
 kramdown:
   input: GFM
+  parse_block_html: true
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
