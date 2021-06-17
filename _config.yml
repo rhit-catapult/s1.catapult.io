@@ -23,6 +23,7 @@ navbar-links:
     - Install python and git: "pages/01_windows_install"
     - Install pycharm: "pages/02_pycharm_install"
     - Github classroom: "pages/03_github_classroom"
+  Project Repository: "pages/04_project_repo"
 
 
 # --- Logo --- #
