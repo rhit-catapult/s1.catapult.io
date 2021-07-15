@@ -23,7 +23,7 @@ stick with you throughout college!
 TODO: Add here screenshots screenshots
 -->
 
-Next, click on the following [link](https://classroom.github.com/a/kH_CSyDC) and
+Next, click on the following [link](https://classroom.github.com/a/6y4f4-3Z) and
 accept the invitation to join our classroom. This will first invite you to join
 our organization `rhit-CSSE`.
 
