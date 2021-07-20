@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Game On!
-subtitle: Catapult Session 01
+subtitle: Operation Catapult
 ---
 
 <h1 style="color:#6F1401;font-size:50px" align="center">
