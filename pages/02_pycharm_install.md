@@ -27,14 +27,10 @@ powerful tool that allows us to write python programs with ease.
 ## Download the installer
 
 First step is for us to download the installer as usual:
-- [For
-Windows](https://download.jetbrains.com/python/pycharm-community-2021.1.2.exe?_gl=1*1xfurov*_ga*MjM3MTk0MjYuMTYwMDQzOTM4OA..*_ga_V0XZL7QHEB*MTYyMzQyOTg0Ny4zLjEuMTYyMzQyOTg2MC4w)
-- [For
-MacOS](https://download.jetbrains.com/python/pycharm-community-2021.1.2.dmg?_gl=1*ndny6n*_ga*MjM3MTk0MjYuMTYwMDQzOTM4OA..*_ga_V0XZL7QHEB*MTYyMzQyOTg0Ny4zLjEuMTYyMzQyOTg5MS4w)
-- [For
-Linux](https://download.jetbrains.com/python/pycharm-community-2021.1.2.tar.gz?_gl=1*xfm1a*_ga*MjM3MTk0MjYuMTYwMDQzOTM4OA..*_ga_V0XZL7QHEB*MTYyMzQyOTg0Ny4zLjEuMTYyMzQyOTkyNy4w)
+- [Link](https://www.jetbrains.com/pycharm/download/)
 
-
+Note: if you are using a Mac, ensure you select the processor type that matches your machine: Apple Silicon for Macs with M series chips (2020 and later), or Intel (before 2020).
+![Image of dropdown for selecting processor type]({{ site.baseurl }}/assets/img/PycharmInstallMac/select_cpu.png)
 
 ## Install PyCharm: Windows
 
