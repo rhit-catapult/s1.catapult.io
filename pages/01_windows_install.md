@@ -12,7 +12,10 @@ need to install python3 according to the following instructions.
 ## Download the installer
 
 Download the python3 install from [this
-link](https://www.python.org/downloads/)
+link](https://www.python.org/downloads/). Make sure to click the button below "download the most recent version".
+
+![Download button image]({{ site.baseurl }}/assets/img/PythonInstallMac/step0.png)
+
 
 ## Run the installer (Windows)
 
@@ -64,7 +67,9 @@ organize our code throughout the session.
 ## Download the installer
 
 Download the Git installer [from this
-link](https://git-scm.com/download/win)
+link](https://git-scm.com/download/win). Make sure to click on the first link that says "click here to download the latest version" (see screenshot below).
+
+![Python Test]({{ site.baseurl }}/assets/img/PythonInstallWin/06.png)
 
 ## Run the installer
 
@@ -88,7 +93,7 @@ Run the installer by double clicking on it.
 
 # Git Installation: MacOS
 
-In order to install git, we will first need to install Homebrew. Homebrew is a package manager that simplifies installing utilities such as git. To install Homebrew, open your terminal and paste in the following:
+In order to install git, we will first need to install Homebrew. Homebrew is a package manager that simplifies installing utilities such as git. To install Homebrew, open your terminal (search terminal in Spotlight) and paste in the following:
 
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 

@@ -26,8 +26,10 @@ powerful tool that allows us to write python programs with ease.
 
 ## Download the installer
 
-First step is for us to download the installer as usual:
+First step is for us to download the installer as usual. Go to the link below, then **scroll down** to where it says "pycharm community edition", and click download (see screenshot below).
 - [Link](https://www.jetbrains.com/pycharm/download/)
+
+![Proper download link]({{ site.baseurl }}/assets/img/PycharmInstallMac/community.png)
 
 Note: if you are using a Mac, ensure you select the processor type that matches your machine: Apple Silicon for Macs with M series chips (2020 and later), or Intel (before 2020).
 ![Image of dropdown for selecting processor type]({{ site.baseurl }}/assets/img/PycharmInstallMac/select_cpu.png)
