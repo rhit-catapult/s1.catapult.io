@@ -69,7 +69,7 @@ organize our code throughout the session.
 Download the Git installer [from this
 link](https://git-scm.com/download/win). Make sure to click on the first link that says "click here to download the latest version" (see screenshot below).
 
-![Python Test]({{ site.baseurl }}/assets/img/PythonInstallWin/06.png)
+![Git installer download button]({{ site.baseurl }}/assets/img/GitInstallWin/04.png)
 
 ## Run the installer
 
@@ -95,7 +95,9 @@ Run the installer by double clicking on it.
 
 In order to install git, we will first need to install Homebrew. Homebrew is a package manager that simplifies installing utilities such as git. To install Homebrew, open your terminal (search terminal in Spotlight) and paste in the following:
 
-```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 
 It may ask for a "sudo" password, if so enter the password you use to log into your computer.
 
